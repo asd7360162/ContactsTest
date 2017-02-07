@@ -32,6 +32,6 @@ public class MyProvider extends ContentProvider {
     }
     @Override
     public String getType(Uri uri){
-        return null;
+        return null;//
     }
 }

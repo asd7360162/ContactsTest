@@ -27,7 +27,7 @@ public class MyProvider extends ContentProvider {
 
     @Override
     public boolean onCreate() {
-        return false;
+        return false;//
     }
 
     @Override
